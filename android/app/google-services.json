@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "129763790493",
+    "project_id": "taxi-booking-4d4a2",
+    "storage_bucket": "taxi-booking-4d4a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129763790493:android:184a421559f4b2cc020e74",
+        "android_client_info": {
+          "package_name": "com.example.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129763790493-klm0e5r9itogjlql1mi255oc2e5it5sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMNr0RjST-F00Vd1tkJ7GXPC8oX2pwqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129763790493-klm0e5r9itogjlql1mi255oc2e5it5sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129763790493:android:380dbb195a348e09020e74",
+        "android_client_info": {
+          "package_name": "com.sciver.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129763790493-hnerndoq55s7e4fi2fli57qfqg4j1708.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sciver.taxi",
+            "certificate_hash": "b655d389bcfd4ca257e583bc3416b224b6e9d1f8"
+          }
+        },
+        {
+          "client_id": "129763790493-klm0e5r9itogjlql1mi255oc2e5it5sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMNr0RjST-F00Vd1tkJ7GXPC8oX2pwqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129763790493-klm0e5r9itogjlql1mi255oc2e5it5sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
